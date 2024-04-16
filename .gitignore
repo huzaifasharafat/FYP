@@ -146,7 +146,7 @@ cython_debug/
 
 #personal
 Data/
-depthai_yunet/
+models/
 *.mp4
 
 # PyCharm
