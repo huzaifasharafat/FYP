@@ -1,0 +1,11 @@
+{
+  version: 1,
+  mediaFileName: 'test1Ch18 20240311101732.mp4',
+  cutSegments: [
+    {
+      start: 242.688829,
+      end: 330.552935,
+      name: '',
+    },
+  ],
+}
